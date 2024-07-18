@@ -22,7 +22,7 @@ reddit = praw.Reddit(
 characters = 'abcdefghijklmnopqrstuvwxyz0123456789-_'
 length = 3
 
-# Create a list to store unavailable usernames
+# Create a list to store unavailabl usernames
 unavailable_usernames = []
 
 # Open the file to write unavailable usernames
